@@ -39,7 +39,7 @@ sudo apt install build-essential libgl1-mesa-dev libxxf86vm-dev libxext-dev qtba
 ```
 To install:
 ```sh
-git clone https://github.com/Fushko/gammy.git
+git clone git@github.com:moyenaak/gammy.git
 cd gammy
 qmake
 make
